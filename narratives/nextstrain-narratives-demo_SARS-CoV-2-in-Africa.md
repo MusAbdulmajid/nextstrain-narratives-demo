@@ -20,6 +20,8 @@ Some content that will be displayed in the left-hand panel.
 
 Content.
 
+<img src"https://docs.nextstrain.org/en/latest/_images/infection_tree_combined.png" alt"Representation of infectious disease transmission chain" width"100" />
+
 ## Introduction to phylodynamics
 
 Some more content.
