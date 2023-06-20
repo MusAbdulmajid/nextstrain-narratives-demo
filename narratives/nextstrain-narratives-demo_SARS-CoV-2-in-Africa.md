@@ -25,6 +25,8 @@ Content.
 ## Introduction to phylodynamics
 
 Some more content.
+
+<img src="https://github.com/MusAbdulmajid/nextstrain-narratives-demo/blob/main/figures/toy_alignment_tree.png" alt="Representation of the alignment and the corresponding phylogeny" width="100%" />
 ```
 
 # [Circulation patterns in Africa](https://nextstrain.org/ncov/gisaid/africa/6m?d=tree,map,frequencies&f_region=Africa&p=grid)
