@@ -20,7 +20,7 @@ Some content that will be displayed in the left-hand panel.
 
 Content.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.nextstrain.org%2Fen%2Flatest%2Flearn%2Finterpret%2Fhow-to-read-a-tree.html&psig=AOvVaw25hM6URKq8YTTANp0OIcUu&ust=1687377024237000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCs1bLP0v8CFQAAAAAdAAAAABAE" alt="Representation of infectious disease transmission chain" width="100"/>
+<img src="https://docs.nextstrain.org/en/latest/_images/infection_tree_combined.png" alt="Representation of infectious disease transmission chain" width="100"/>
 
 ## Introduction to phylodynamics
 
