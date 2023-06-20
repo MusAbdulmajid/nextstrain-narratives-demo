@@ -27,6 +27,10 @@ Content.
 Some more content.
 
 <img src="https://github.com/MusAbdulmajid/nextstrain-narratives-demo/blob/main/figures/toy_alignment_tree.png?raw=true" alt="Representation of the alignment and the corresponding phylogeny" width="100%" />
+
+And more content.
+
+<img src="https://github.com/MusAbdulmajid/nextstrain-narratives-demo/blob/main/figures/MSA%20and%20phylotre.jpg" alt="Representation of Mutation in alignment and phylogeny" width="80%" />
 ```
 
 # [Circulation patterns in Africa](https://nextstrain.org/ncov/gisaid/africa/6m?d=tree,map,frequencies&f_region=Africa&p=grid)
