@@ -34,4 +34,4 @@ And more content.
 ```
 
 # [Circulation patterns in Africa](https://nextstrain.org/ncov/gisaid/africa/6m?d=tree,map,frequencies&f_region=Africa&p=grid)
-Africa experienced three distinct waves of SARS-CoV-2: Alpha, Beta, and Delta.
+Africa has experienced three distinct waves of SARS-CoV-2: Alpha, Beta, and Delta.
