@@ -30,7 +30,7 @@ Some more content.
 
 And more content.
 
-<img src="https://github.com/MusAbdulmajid/nextstrain-narratives-demo/blob/main/figures/MSA%20and%20phylotre.png?raw=true" alt="Representation of Mutation in alignment and phylogeny" width="80%" />
+<img src="https://github.com/MusAbdulmajid/nextstrain-narratives-demo/blob/main/figures/MSA%20and%20phylotre.png?raw=true" alt="Representation of Mutation in alignment and phylogeny" width="100%" />
 ```
 
 # [Circulation patterns in Africa](https://nextstrain.org/ncov/gisaid/africa/6m?d=tree,map,frequencies&f_region=Africa&p=grid)
